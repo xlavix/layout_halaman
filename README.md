@@ -3,7 +3,7 @@
 Muhamad Farhan - 4522210057
 ## Screenshot Aplikasi
 
-![Screenshot Aplikasi](images/screen_shots.png)
+![Screenshot Aplikasi](screenshots/layout.png)
 
 ## Cara Menjalankan Project
 Pastikan kamu sudah menginstall dependensi terlebih dahulu:
